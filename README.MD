@@ -105,7 +105,7 @@ curl --location 'https://your.domain.com/v1/chat/completions' \
             "content": "Testing. Just say hi and nothing else."
         }
     ],
-    "model": "gemini-2.0-flash-001"
+    "model": "gemini-2.5-flash-exp-native-audio-thinking-dialog"
 }'
 ```
 ### ChatBOX：
